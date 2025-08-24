@@ -1,5 +1,4 @@
-<style>
-    .subscribe {
+ .subscribe {
         background-color: rgb(204, 0, 0);
         color: white;
         border: none;
@@ -188,18 +187,3 @@
         text-transform: uppercase;
         
     }
-</style>
-<button class="subscribe">SUBSCRIBE</button> 
-<button class="join">JOIN</button>
-<button class="tweet">Tweet</button>
-<br>
-<button class="requestnow">Request now</button>
-<button class="addtocart">Add to cart</button>
-<button class="signup">Sign up</button>
-<br>
-<button class="getstarted">Get started</button>
-<button class="download">Download</button>
-<button class="applyoncompanywebsite">Apply on company website</button>
-<button class="save">Save</button>
-<br>
-<button class="emong">emong</button>
